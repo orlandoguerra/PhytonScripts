@@ -5,7 +5,7 @@ import sys
 
 user = "user";
 pwd = "pwd";
-urlDS = "(DESCRIPTION=(ENABLE=BROKEN)... this will be modified";
+urlDS = "(DESCRIPTION=(ENABLE=BROKEN)... this will be modified1";
 #Include all the dynamic examples
 
 
