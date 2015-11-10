@@ -5,7 +5,8 @@ import sys
 
 user = "user";
 pwd = "pwd";
-urlDS = "(DESCRIPTION=(ENABLE=BROKEN)...";
+urlDS = "(DESCRIPTION=(ENABLE=BROKEN)... this will be modified";
+#Include all the dynamic examples
 
 
 node = AdminTask.listNodes();
